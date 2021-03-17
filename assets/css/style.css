@@ -52,7 +52,7 @@ h2 {
 #mainimage {
     height: 600px;
     width: 100%;
-    background: url("assets/images/bghike.jpg");
+    background: url("http://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/main-image.png") no repeat center center;
 }
 
 #cover-text {
