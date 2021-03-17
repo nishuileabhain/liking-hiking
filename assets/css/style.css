@@ -52,7 +52,12 @@ h2 {
 #mainimage {
     height: 600px;
     width: 100%;
-    background: url("http://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/main-image.png") no repeat center center;
+    /*
+    none of my images are loading
+    background: url("/assets/images/bghike.jpg") no repeat center center;
+    */
+    background: url('https://imgur.com/a/UyT31e0') no repeat center center;
+
 }
 
 #cover-text {
