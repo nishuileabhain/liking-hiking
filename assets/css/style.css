@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+
+}
+
+h2 {
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: #555555;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+#logo {
+    float: left;
+    font-size: 280;
+    
+}
+
+#headermenu {
+    font-size: 115%;
+    list-style-type: none;
+    letter-spacing: 4px;
+}
+
+#headermenu li {
+    float: right;
+    margin-right: 30px;
+}
+
+/*this is for links */
+#headermenu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/*this is just to align both pieces of text on the page */
+#logo, #headermenu {
+    line-height: 75px;
+}
+
+#headermenu a:hover {
+    border-bottom: 3px solid salmon;
+    border-top: 3px solid salmon;
+}
+
+.currentpage {
+    border-bottom: 3px solid salmon;
+}
+
+#mainimage {
+    height: 600px;
+    width: 100%;
+    background: url("assets/images/bghike.jpg");
+}
+
+#cover-text {
+    font-size: 130%;
+}
+
+#cover-text, cover-text h2 {
+    color: #555555;
+    /*this needs to contrast with bg colour*/
+}
