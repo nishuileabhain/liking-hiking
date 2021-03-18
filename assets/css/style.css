@@ -49,19 +49,24 @@ h2 {
     border-bottom: 3px solid salmon;
 }
 
-#hero-image {
+#ghj {
     height: 600px;
     width: 100%;
+    background-color: aqua;
+    background-repeat: no-repeat;
+    background-position: center;
+    }
+    
     /*
     Hero-image is the main background image for this site
     none of my images are loading
     background: url("/assets/images/bghike.jpg") no repeat center center;
     background: url("/main-image.png") no repeat center center;
+    background: url('https://imgur.com/a/UyT31e0');
+    background: url('main-image.png') no repeat center center;
 
 */
-    background: url("https://imgur.com/a/UyT31e0") no-repeat center center;
 
-}
 
 #cover-text {
     font-size: 130%;
