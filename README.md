@@ -1,4 +1,4 @@
-Liking Hiking
+##Liking Hiking
 This project is a frontend website for the fictitious hiking club “liking hiking”
 The main focus for the website is to get people to join the club and to allow existing members to check on available routes and weather and covid alerts
 The website provides information on upcoming restrictions, it has the option to sign up for a mailing list of upcoming events
