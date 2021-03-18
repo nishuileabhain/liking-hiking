@@ -9,6 +9,7 @@ UX
 The target audience for this website is:
 •	Group members who want to check when the next meetup is or suggest a new one
 •	Potential members looking for more information about the club
+
 User stories:
 First time users:
 •	As a first time user, I want to navigate easily across the website.
