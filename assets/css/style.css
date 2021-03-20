@@ -55,8 +55,10 @@ h2 {
     -o-background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    min-height: 30%;
-    width: 100%;        
+    min-height: 300px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;     
     /*
 
 
