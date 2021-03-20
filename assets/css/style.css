@@ -25,7 +25,7 @@ h2 {
     letter-spacing: 4px;
 }
 
-#logotext {
+.navbar-brand {
     float: left;
     font-size: 280;
     
@@ -46,11 +46,6 @@ h2 {
 #headermenu a {
     text-decoration: none;
     color: inherit;
-}
-
-/*this is just to align both pieces of text on the page */
-#logotext, #headermenu {
-    line-height: 100px;
 }
 
 .bglogo {
