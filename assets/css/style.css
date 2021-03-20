@@ -47,6 +47,14 @@ h2 {
     line-height: 75px;
 }
 
+.bglogo {
+    background: url("../images/hiking-sign.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    /*background-size: cover;
+      can add min heights as well*/
+}
+
 #headermenu a:hover {
     border-bottom: 3px solid salmon;
     border-top: 3px solid salmon;
@@ -56,13 +64,14 @@ h2 {
     border-bottom: 3px solid salmon;
 }
 
+/*
+#bg-image {
 
-#bg-image {   
-    max-height: 100px;
-    max-width: 100%;   
+    max-height: 30%;
+    max-width: 30%;   
     }
     
-    /*
+    
     Hero-image is the main background image for this site
     none of my images are loading
     background: url("/assets/images/bghike.jpg") no repeat center center;
