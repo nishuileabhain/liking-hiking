@@ -67,7 +67,14 @@ h2 {
     -webkit-transition: all .5s ease-in-out;     
 }
 
-#headermenu a:hover {
+/*restyled NAV for responsive*/
+.navbar {
+color: inherit;
+background-color:inherit;
+font-family: 'Special Elite', cursive;
+}
+
+.navbar a:hover {
     border-bottom: 3px solid salmon;
     border-top: 3px solid salmon;
 }
