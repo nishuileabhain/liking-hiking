@@ -19,7 +19,7 @@ h2 {
     letter-spacing: 4px;
 }
 
-#logo {
+#logotext {
     float: left;
     font-size: 280;
     
@@ -43,7 +43,7 @@ h2 {
 }
 
 /*this is just to align both pieces of text on the page */
-#logo, #headermenu {
+#logotext, #headermenu {
     line-height: 75px;
 }
 
