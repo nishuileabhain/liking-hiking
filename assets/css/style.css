@@ -48,10 +48,19 @@ h2 {
 }
 
 .bglogo {
-    background: url("../images/hiking-sign.jpg");
-    background-position: center;
+    background: url("../images/bghike.jpg");
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-repeat: no-repeat;
-    /*background-size: cover;
+    background-position: center;
+    min-height: 30%;
+    width: 100%;        
+    /*
+
+
+
       can add min heights as well*/
 }
 
@@ -98,10 +107,19 @@ h2 {
     /*this needs to contrast with bg colour*/
 }
 
-footer li{
+footer li {
     text-decoration: none;
     list-style-type: none;
     letter-spacing: 4px;
     float: right;
     margin-right: 30px;
+    width: 32px;
+    height: 32px;
+
+}
+
+footer a:hover{
+    color: salmon;
+    min-height: 75px;
+    margin: 0px;
 }
