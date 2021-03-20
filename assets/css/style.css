@@ -1,11 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     color: #777777;
 
 }
 
+h1, h2 {
+    font-family: 'Special Elite', cursive;
+}
+
 h2 {
-    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    /*font-family: Tahoma, Geneva, Verdana, sans-serif;*/
     text-decoration: none;
     color: #555555;
     text-transform: uppercase;
@@ -50,13 +56,9 @@ h2 {
 }
 
 
-#bg-image {
-    background: url("../assets/images/bghike.jpg");
-    height: 200px;
-    width: 200%;
-    background-repeat: no-repeat;
-    background-position: center;
-    
+#bg-image {   
+    max-height: 100px;
+    max-width: 100%;   
     }
     
     /*
@@ -66,7 +68,9 @@ h2 {
     background: url("/main-image.png") no repeat center center;
     background: url('https://imgur.com/a/UyT31e0');
     background: url('main-image.png') no repeat center center;
- background-color: aqua;
+ background-color: aqua;background: url("../assets/images/bghike.jpg");
+     background-repeat: no-repeat;
+    background-position: center;
 */
 
 #benchpic {
