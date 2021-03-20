@@ -49,9 +49,9 @@ h2 {
     border-bottom: 3px solid salmon;
 }
 
-#ghj {
-    height: 600px;
-    width: 100%;
+#main-image {
+    height: 200px;
+    width: 50%;
     background-color: aqua;
     background-repeat: no-repeat;
     background-position: center;
