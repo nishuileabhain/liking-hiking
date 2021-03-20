@@ -101,9 +101,10 @@ footer li {
 
 footer a:hover{
     color: salmon;
-    min-height: 75px;
-    margin: 0px;
+}
+
+article {
+    padding: 50px;
 }
 
     /*individual parts*/
-    
