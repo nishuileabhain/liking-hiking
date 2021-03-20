@@ -74,7 +74,7 @@ font-family: 'Special Elite', cursive;
     border-top: 3px solid salmon;
 }
 
-.currentpage {
+.active {
     border-bottom: 3px solid salmon;
 }
 
@@ -109,4 +109,6 @@ article {
     padding: 50px;
 }
 
-    /*individual parts*/
+.info {
+    padding-top: 20px;
+}
