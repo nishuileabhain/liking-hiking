@@ -1,12 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Oswald&family=Special+Elite&display=swap');
 
+
 body {
     font-family: 'Oswald', Arial, Helvetica, sans-serif;
     color: #777777;
     background-color: #99a682;
 }
 
+    /*header part*/
 header {
     margin: 0px;
 }
@@ -63,11 +65,6 @@ h2 {
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;     
-    /*
-
-
-
-      can add min heights as well*/
 }
 
 #headermenu a:hover {
@@ -79,30 +76,6 @@ h2 {
     border-bottom: 3px solid salmon;
 }
 
-/*
-#bg-image {
-
-    max-height: 30%;
-    max-width: 30%;   
-    }
-    
-    
-    Hero-image is the main background image for this site
-    none of my images are loading
-    background: url("/assets/images/bghike.jpg") no repeat center center;
-    background: url("/main-image.png") no repeat center center;
-    background: url('https://imgur.com/a/UyT31e0');
-    background: url('main-image.png') no repeat center center;
- background-color: aqua;background: url("../assets/images/bghike.jpg");
-     background-repeat: no-repeat;
-    background-position: center;
-*/
-
-#benchpic {
-    background: url("../images/bench.jpg");
-    height: 300px;
-    width: 50%;
-}
 
 #cover-text {
     font-size: 130%;
@@ -113,6 +86,8 @@ h2 {
     /*this needs to contrast with bg colour*/
 }
 
+
+    /*footer part*/
 footer li {
     text-decoration: none;
     list-style-type: none;
@@ -129,3 +104,6 @@ footer a:hover{
     min-height: 75px;
     margin: 0px;
 }
+
+    /*individual parts*/
+    
