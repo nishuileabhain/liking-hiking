@@ -4,7 +4,7 @@
 
 body {
     font-family: 'Oswald', Arial, Helvetica, sans-serif;
-    color: #777777;
+    color: #555555;
     background-color: #99a682;
 }
 
@@ -20,7 +20,7 @@ h1, h2 {
 h2 {
     /*font-family: Tahoma, Geneva, Verdana, sans-serif;*/
     text-decoration: none;
-    color: #555555;
+    color: #777777;
     text-transform: uppercase;
     letter-spacing: 4px;
 }
@@ -43,9 +43,10 @@ h2 {
 }
 
 /*this is for links */
-#headermenu a {
+ a {
     text-decoration: none;
     color: inherit;
+    text-transform: uppercase;
 }
 
 .bglogo {
