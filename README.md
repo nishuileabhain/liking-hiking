@@ -94,8 +94,8 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 Credits
 Content
-The text for section Y was copied from the Wikipedia article Z
+The bootstrap gallery code was originally taken from an article at https://mdbootstrap.com/docs/standard/extended/gallery/ and modified as required.
 Media
-The photos used in this site were obtained from ...
+The photos used in this site were all taken by myself, Carol Lucille O'Sullivan.
 Acknowledgements
 I received inspiration for this project from X
