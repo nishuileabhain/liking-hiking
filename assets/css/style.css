@@ -8,7 +8,6 @@ body {
     background-color: #b7c59f;
 }
 
-    /*header part*/
 header {
     margin: 0px;
 }
@@ -18,7 +17,6 @@ h1, h2 {
 }
 
 h2 {
-    /*font-family: Tahoma, Geneva, Verdana, sans-serif;*/
     text-decoration: none;
     color: darkolivegreen;
     text-transform: uppercase;
@@ -27,23 +25,10 @@ h2 {
 
 .navbar {
     float: left;
-    font-size: 280;
-    color: #777777;
-    
-}
-/*
-#headermenu {
-    font-size: 115%;
-    list-style-type: none;
-    letter-spacing: 4px;
+    font-size: 300;
+    color: #777777; 
 }
 
-#headermenu li {
-    float: right;
-    margin-right: 30px;
-}*/
-
-/*this is for links */
  a {
     text-decoration: none;
     color:maroon;
@@ -70,7 +55,7 @@ h2 {
     -webkit-transition: all .5s ease-in-out;     
 }
 
-/*restyled NAV for responsive*/
+/* NAV for responsive*/
 .navbar {
 color: inherit;
 background-color:inherit;
@@ -85,7 +70,6 @@ font-family: 'Special Elite', cursive;
 .active {
     border-bottom: 3px solid salmon;
 }
-
 
 #cover-text {
     font-size: 130%;
@@ -106,7 +90,6 @@ footer li {
     margin-right: 30px;
     width: 32px;
     height: 32px;
-
 }
 
 footer a:hover{
