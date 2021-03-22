@@ -51,6 +51,7 @@ h2 {
 
  a:hover {
     text-decoration: none;
+    color: inherit;
     border-bottom: 3px solid salmon;
     border-top: 3px solid salmon;
 }
