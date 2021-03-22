@@ -43,6 +43,7 @@ A user gallery and comment board will not be implemented but links to a private 
 
 
 wireframes made in balsamiq are included as a pdf file in the project itself (in an separate directory)
+../wireframes/liking-hiking.pdf
 
 Features ---
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
