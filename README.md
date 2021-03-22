@@ -46,14 +46,20 @@ wireframes made in balsamiq are included as a pdf file in the project itself (in
 ../wireframes/liking-hiking.pdf
 
 Features ---
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+The index page provides a main description of the club and reminds hikers that all events are subject to certain conditions.
+Links are provided to verify up-to-date details.
+As with all pages it also includes links to the club's social media pages.
+As with all pages it also features a collapsable menu linking to the other three pages.
+There is  a banner photo of a hikig landscape which is consistent across all pages, but the descriptive overlay test changes so that this image serves as a title.
 
-Existing Features ---
-Feature 1 - allows users X to achieve Y, by having them fill out Z
-...
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+The 'How' page actually provides more specific information about how to join a hike. This leverages external site meetup.com which provided the functionality of an event calendar.
+An email link is also given in case the hiker needs to ask for further details.
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+The Hikes page gives a generic overview of the kinds of places where the club has been hiking and the maps there. The page content also suggests suitability.
+
+Finally there is a gallery page with some photos taken while hiking to inspire new members.
+
+In the future some of the externally references features such as the map or the event calendar could be implemented directly within the site if the membership grows enough to make this viable.
 
 Features Left to Implement
 Another feature idea
