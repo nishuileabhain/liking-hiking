@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
+        <!-- links to stylesheets and external resources such as font awesome and bootstrap, also viewport to make page responsive / scalable -->
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"/>
@@ -13,86 +14,74 @@
 
         <header class="container">
             <div class="row">
-                <div class="col-12">      
+                <div class="col-12"> 
+                    <!-- bootstrap feature, responsive navigation bar -->     
                     <nav class="navbar navbar-light navbar-expand-sm">
                         <ul class="navbar-nav mr-auto">
-                        <li class="active nav-item mr-2"><a class="nav-link" href="index.html">Home</a></li>
-                        <li class="nav-item mr-2"><a class="nav-link" href="hikes.html">Hikes</a></li>
-                        <li class="nav-item mr-2"><a class="nav-link" href="how.html">How</a></li>
-                        <li class="nav-item mr-2"><a class="nav-link" href="gallery.html">Gallery</a></li>
-                    </ul>
+                            <li class="active nav-item mr-2"><a class="nav-link" href="index.html">Home</a></li>
+                            <li class="nav-item mr-2"><a class="nav-link" href="hikes.html">Hikes</a></li>
+                            <li class="nav-item mr-2"><a class="nav-link" href="how.html">How</a></li>
+                            <li class="nav-item mr-2"><a class="nav-link" href="gallery.html">Gallery</a></li>
+                        </ul>
                     </nav>
                 </div>  
             </div>     
 
-                <div class="row">
-                    <div class="col-12">
-                        <div class="bglogo">
-                        <!--main page image goes here-->
-              <div id="header-text">
-                <h1>Liking Hiking</h1>
-                <h2>Social Hiking Club</h2>
-            </div>                                   
-                        </div>
-                    </div>    
-                </div>          
+            <div class="row">
+                <div class="col-12">
+                    <div class="bglogo">
+                    <!--main page image goes here via CSS -->
+                    <h1>Liking Hiking</h1>
+                    <h2>Social Hiking Club</h2>
+                    </div>
+                </div>    
+            </div>          
         </header>
 
-        <!--this part down is unique to each page-->
-
             
-        <article class="container">
-            
+        <article class="container">           
             <div class="row">
                 <div class="col-12">
                     <section class="info">
-                    <h2><i class="fas fa-exclamation"></i> ALERTS</h2>
-                    
-                    <h3><i class="fas fa-cloud-showers-heavy"></i> Weather</h3>
-                    <p>Please be mindful that all events are subject to weather.
-                    Please check <a href="https://www.met.ie/" target="_blank" rel="noopener noreferrer">the Met Eireann website</a> for the latest forecast.</p>
+                        <h2><i class="fas fa-exclamation"></i> ALERTS</h2>                   
+                        <h3><i class="fas fa-cloud-showers-heavy"></i> Weather</h3>
+                        <p>Please be mindful that all events are subject to weather.
+                        Please check <a href="https://www.met.ie/" target="_blank" rel="noopener noreferrer">the Met Eireann website</a> for the latest forecast.</p>
                     </section>
                 </div>
             </div>    
-            
-            
-                <div class="row">
+                       
+            <div class="row">
                 <div class="col-6 col-12">    
                     <section class="info">                
-                    <h3><i class="fas fa-virus"></i> Coronavirus Lockdown</h3>
-                    <p>Members are required to stay within their legal travel limits.
-                    For the latest restrictions please check <a href="https://www.citizensinformation.ie/en/covid19/" target="_blank" rel="noopener noreferrer">the citizen's information web page about Covid-19 restrictions</a>.</p>
-                    <small class="muted">Attending our events does NOT qualify as a valid exception to national lockdown restrictions.</small>
+                        <h3><i class="fas fa-virus"></i> Coronavirus Lockdown</h3>
+                        <p>Members are required to stay within their legal travel limits.
+                        For the latest restrictions please check <a href="https://www.citizensinformation.ie/en/covid19/" target="_blank" rel="noopener noreferrer">the citizen's information web page about Covid-19 restrictions</a>.</p>
+                        <small class="muted">Attending our events does NOT qualify as a valid exception to national lockdown restrictions.</small>
                     </section>
                 </div>
             </div>
-            
-            
-                    
-           
+          
             <div class="row">        
                 <div class="col-6 col-12">
                     <section class="info">
-                    <h2><i class="fas fa-hiking"></i> About Us</h2>
-                    <p>Liking Hiking was set up as a way for beginner hikers to meet up in a safe and healthy environment.
-                    We organise easy hikes that are suitable for beginners and enable socialising outdoors.</p>
+                        <h2><i class="fas fa-hiking"></i> About Us</h2>
+                        <p>Liking Hiking was set up as a way for beginner hikers to meet up in a safe and healthy environment.
+                        We organise easy hikes that are suitable for beginners and enable socialising outdoors.</p>
                     </section>
                 </div>
             </div>    
-            
 
-
-
-        <footer class="container">
-            <div class="row">
-                <div class="col-12"></div>
-            <ul>
-                <li><a href="facebook.com"><i class="fab fa-facebook-square"></i></a></li>
-                <li><a href="instagram.com"><i class="fab fa-instagram-square"></i></a></li>
-                <li><a href="twitter.com"><i class="fab fa-twitter-square"></i></a></li>
-            </ul>
-            </div>
-        </footer>
+            <footer class="container">
+                <div class="row">
+                    <div class="col-12"></div>
+                        <ul>
+                            <li><a href="facebook.com"><i class="fab fa-facebook-square"></i></a></li>
+                            <li><a href="instagram.com"><i class="fab fa-instagram-square"></i></a></li>
+                            <li><a href="twitter.com"><i class="fab fa-twitter-square"></i></a></li>
+                        </ul>
+                    </div>
+            </footer>
         </article>
     </body>
 </html>
