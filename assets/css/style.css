@@ -4,8 +4,8 @@
 
 body {
     font-family: 'Oswald', Arial, Helvetica, sans-serif;
-    color: #555555;
-    background-color: #99a682;
+    color: #554444;
+    background-color: #b7c59f;
 }
 
     /*header part*/
@@ -20,17 +20,18 @@ h1, h2 {
 h2 {
     /*font-family: Tahoma, Geneva, Verdana, sans-serif;*/
     text-decoration: none;
-    color: #777777;
+    color: chocolate;
     text-transform: uppercase;
-    letter-spacing: 4px;
+    letter-spacing: 5px;
 }
 
-.navbar-brand {
+.navbar {
     float: left;
     font-size: 280;
+    color: #777777;
     
 }
-
+/*
 #headermenu {
     font-size: 115%;
     list-style-type: none;
@@ -40,7 +41,7 @@ h2 {
 #headermenu li {
     float: right;
     margin-right: 30px;
-}
+}*/
 
 /*this is for links */
  a {

@@ -98,4 +98,4 @@ The bootstrap gallery code was originally taken from an article at https://mdboo
 Media
 The photos used in this site were all taken by myself, Carol Lucille O'Sullivan.
 Acknowledgements
-I received inspiration for this project from X
+I would like to thank the CI tutor and my mentor for helping me.
