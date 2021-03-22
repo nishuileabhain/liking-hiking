@@ -20,7 +20,7 @@ h1, h2 {
 h2 {
     /*font-family: Tahoma, Geneva, Verdana, sans-serif;*/
     text-decoration: none;
-    color: chocolate;
+    color: darkolivegreen;
     text-transform: uppercase;
     letter-spacing: 5px;
 }
@@ -46,7 +46,7 @@ h2 {
 /*this is for links */
  a {
     text-decoration: none;
-    color: chocolate;
+    color:peru;
 }
 
  a:hover {
