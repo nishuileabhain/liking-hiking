@@ -77,7 +77,10 @@ https://validator.w3.org/nu/?doc=https%3A%2F%2Fnishuileabhain.github.io%2Fliking
 
 After adding some alt tags to links, the W3 validator showed this as an error so I removed them again.
 
-When I tested for site accessibility using wave
+When I tested for site accessibility using https://wave.webaim.org/ it reported that the contrast was not good so I changed the background colour and the colours of the links.
+Also it reported that the social media links which had been icons without any text description were problematic.
+To fix this I added text but then each item was too big and no longer scaled correctly when I narrowed the page.
+In the end I removed the unordered list from the html and instead made a bootstrap row with three columns using the method exemplified in the code institute resume project.
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
