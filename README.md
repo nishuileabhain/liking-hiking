@@ -67,6 +67,18 @@ Technologies Used
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
 Testing
+
+After trying out the site on another computer it became apparent that the images were loading much too slowly.
+To fix this I made optimised copies of the images I needed by uploading them to https://tinypng.com/ and then I uploaded them again to gitpod.
+I moved the original (now redundant) images into a different folder called 'old'. On testing again I found that one of my image descriptions was wrong, so I renamed the description and optimised and imported the correct picture.
+
+On testing my code in the W3 validator some minor changes were made such as extra dashed in comments and some unused tags were removed.
+https://validator.w3.org/nu/?doc=https%3A%2F%2Fnishuileabhain.github.io%2Fliking-hiking%2F
+
+After adding some alt tags to links, the W3 validator showed this as an error so I removed them again.
+
+When I tested for site accessibility using wave
+
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
 Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
@@ -102,6 +114,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 Credits
 Content
 The bootstrap gallery code was originally taken from an article at https://mdbootstrap.com/docs/standard/extended/gallery/ and modified as required.
+The
 Media
 The photos used in this site were all taken by myself, Carol Lucille O'Sullivan.
 Acknowledgements
