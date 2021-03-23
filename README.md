@@ -61,13 +61,13 @@ While the current site gives an email link only, if the volume of emails increas
 
 ## Technologies Used
 
-HTML - https://html.com/html5/
-CSS - https://www.w3.org/Style/CSS/
-BOOTSTRAP - -https://getbootstrap.com/
+-  HTML - https://html.com/html5/
+-  CSS - https://www.w3.org/Style/CSS/
+-  BOOTSTRAP - -https://getbootstrap.com/
 The bootstrap gallery code used in this project was originally taken from an article at https://mdbootstrap.com/docs/standard/extended/gallery/ and modified as required.
 The rows and columns used to separate content are bootstrap and the navigation menu at the top of each page is a bootstrap feature
-FONT AWESOME - https://fontawesome.com/ This was used to implement all icons for headings and social media, using the <i> tag.
-GOOGLE FONTS - https://fonts.google.com/  This was used to import the 'Oswald' and 'Special Elite' fonts.
+- FONT AWESOME - https://fontawesome.com/ This was used to implement all icons for headings and social media, using the <i> tag.
+- GOOGLE FONTS - https://fonts.google.com/  This was used to import the 'Oswald' and 'Special Elite' fonts.
 
 ## Testing
 
