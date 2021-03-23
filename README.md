@@ -98,6 +98,8 @@ In the end I removed the unordered list from the html and instead made a bootstr
 
 The method of testing is to open the page at https://wave.webaim.org/ and enter the url of pages to be checked. It is important to first push all changes via git as noted above to make sure that the up-to-date page is being tested.
 
+### Responsiveness
+This website was also tested by sending the site url to open on mobile phones (A Oneplus 5 on android and an iphone) and the responsiveness was tested on a computer using google developer tools and narrowing the page size.
 
 ## Deployment
 This website was deployed to GitHub following these steps:
